@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: a54786f28d927b94e9f9b17d2314b781
+guid: 459f5330c4c667b40abb7a2348331cae
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Slide
-    second: {fileID: 2100000, guid: 6034169c74aa9b7498a925ef4715781c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Slide.001
-    second: {fileID: 2100000, guid: 7be224cda1392b94e9e0c4137c2f97db, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
